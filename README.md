@@ -4,15 +4,7 @@
    
    
    <h1 align="center">Hi 👋, I'm Muhammad Zaid</h1>
-   <br/>
-
-<imgsrc="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&weight=900&pause=1000&color=8651F7&&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I+am+Usman+;From+Pakistan+🇵🇰;Dedicated+Developer+%F0%9F%9A%80;%F0%9F%A4%94+Continuous+Improver+%E2%9D%A4;%F0%9F%92%A1+Innovative+Thinker+%E2%9C%8C"
-         alt="Typing SVG"
-         style="color: #3498db; font-size: 20px;"
-       >
-     </a>
-   </div>
-   
+   <br/>   
    <img align="right" alt="Coding" width="400" style="border-radius:20px;"
        src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
    
@@ -34,8 +26,6 @@
    <br>
    
    # 📊 GitHub Stats:
-   ![](https://github-readme-stats.vercel.app/api?username=muhammadzaid&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadzaid&theme=dracula&hide_border=false)<br/>
    
    <div align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman-rizwan&show_icons=true&locale=en&layout=compact" alt="usman-rizwan" />  </div>
    <h3 align="left">🌐 Connect with me:</h3>
