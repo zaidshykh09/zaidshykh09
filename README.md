@@ -38,7 +38,7 @@
      <a href="https://wa.me/923163025545" target="_blank">
        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
      </a>
-       <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-zaid-9a400628 "target="_blank">
+       <a href="https://www.linkedin.com/in/muhammad-zaid-9a400628a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
      <a href="https://www.instagram.com/zaid_shykh09/" target="_blank">
